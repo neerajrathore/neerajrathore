@@ -1,4 +1,4 @@
-![Greet]([greet.svg](https://raw.githubusercontent.com/neerajrathore/neerajrathore/7e4b5acad01b706c4144c5a3997b268bcc6298a0/greet.svg))
+[![Greet](https://raw.githubusercontent.com/neerajrathore/neerajrathore/7e4b5acad01b706c4144c5a3997b268bcc6298a0/greet.svg)](https://github.com/neerajrathore)
 
 <h3 class="job">MERN Stack developer</h3>
 
