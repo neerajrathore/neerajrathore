@@ -1,4 +1,4 @@
-[![Greet](greet.svg)](https://github.com/neerajrathore/neerajrathore/blob/main/greet.svg)
+[![Greet](greet.svg)](https://github.com/neerajrathore/neerajrathore/blame/main/greet.svg)
 <h3 class="job">MERN Stack developer</h3>
 
 
