@@ -1,5 +1,7 @@
 [![Greet](https://raw.githubusercontent.com/neerajrathore/neerajrathore/7e4b5acad01b706c4144c5a3997b268bcc6298a0/greet.svg)](https://github.com/neerajrathore)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajrathore&label=Profile%20views&color=0e75b6&style=flat" alt="neerajrathore" /> </p>
+
 <h3 class="job">MERN Stack developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
