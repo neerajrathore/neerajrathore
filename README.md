@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajrathore&label=Profile%20views&color=0e75b6&style=flat" alt="neerajrathore" /> </p>
 
-<h3 class="job">💻 Full-Stack Developer </h3>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%92%BB+Full-Stack+Developer!;" />
+</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
@@ -14,6 +16,8 @@
 <a href="https://github.com/neerajrathore"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrathore&show_icons=true&locale=en&layout=compact&theme=react" width="320"  alt="neerajrathore"/></a>
 </p>
 
+<div align="center">
+    
 ## 🚧 Featured Projects  
 
 <div align="center">
@@ -23,7 +27,7 @@
         <td width="50%" align="center" valign="top">
           <div style="background: rgba(255,255,255,0.05); border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
             <h3>🤖 <a href="">Samadhan Portal - Public Grievances System</a></h3>
-            <img src="https://github.com/user-attachments/assets/04458e0a-bca2-448e-b5b0-6d3da1235d04" width="75%" alt="Samadhan Preview" style="border-radius:16px; margin-bottom:10px;"/>
+            <img src="https://raw.githubusercontent.com/neerajrathore/github-profile-assets/main/samadhan.png" width="50%" alt="[Samadhan Preview](https://github.com/user-attachments/assets/04458e0a-bca2-448e-b5b0-6d3da1235d04)" style="border-radius:16px; margin-bottom:10px;"/>
             <p><b></b> that helps you manage, track and prioritize your Issues effortlessly.</p>
             <p><i>Features: Park, Pole, Road, Sewerage and miscellaneous issues.</i></p>
             <img src="https://skillicons.dev/icons?i=dotnet,jquery,visualstudio,mysql" />
@@ -31,4 +35,5 @@
         </td>
       </tr>
     </table>
+</div>
 </div>
