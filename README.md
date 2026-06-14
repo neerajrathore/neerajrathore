@@ -14,4 +14,21 @@
 <a href="https://github.com/neerajrathore"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrathore&show_icons=true&locale=en&layout=compact&theme=react" width="320"  alt="neerajrathore"/></a>
 </p>
 
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=neerajrathore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+## 🚧 Featured Projects  
+
+<div align="center">
+    <table>
+      <tr>
+        <!-- Samadhan Portal -->
+        <td width="50%" align="center" valign="top">
+          <div style="background: rgba(255,255,255,0.05); border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <h3>🤖 <a href="">Samadhan Portal - Public Grievances System</a></h3>
+            <img src="https://github.com/user-attachments/assets/04458e0a-bca2-448e-b5b0-6d3da1235d04" width="75%" alt="Samadhan Preview" style="border-radius:16px; margin-bottom:10px;"/>
+            <p><b></b> that helps you manage, track and prioritize your Issues effortlessly.</p>
+            <p><i>Features: Park, Pole, Road, Sewerage and miscellaneous issues.</i></p>
+            <img src="https://skillicons.dev/icons?i=dotnet,jquery,visualstudio,mysql" />
+          </div>
+        </td>
+      </tr>
+    </table>
+</div>
